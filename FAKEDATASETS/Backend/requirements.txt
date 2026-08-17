@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+joblib
+pydantic
+numpy
+torch
+transformers
+datasets
+matplotlib
+seaborn
+werkzeug
+itsdangerous
+python-multipart
+
